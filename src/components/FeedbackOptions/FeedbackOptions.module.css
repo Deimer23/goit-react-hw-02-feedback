@@ -1,0 +1,13 @@
+
+
+.buttons{
+    background: transparent;
+    height: 30px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.buttons:hover{
+    background-color: rgb(113, 113, 187);
+}
